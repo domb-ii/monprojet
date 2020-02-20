@@ -2,3 +2,4 @@ première modification
 deuxième
 troisième
 quatrième
+test git diff
